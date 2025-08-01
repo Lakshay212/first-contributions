@@ -2725,6 +2725,7 @@ random guy
 - [Claudio Jara](https://github.com/claudiojara)
   Leahylin
 - [Peter Hilbert](https://github.com/pehilbert)
+- [Lakshay212](https://github.com/Lakshay212)
 - [.kim](https//github.com/kim8584)
 - [Yeressil Taupiyk](https://github.com/BalmundSM)
 - [Somssi Pathania](https://github.com/SOMSSI2110)
